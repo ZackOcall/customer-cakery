@@ -27,5 +27,7 @@
 ### Safari(Phone)
 
 ## Credits
+ 
+* All icons provided by Font Awesome [Link](https://fontawesome.com/)
 
 ## Disclaimer
