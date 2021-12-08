@@ -1,6 +1,13 @@
 /* Google font import */
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
 
+/* Body */
+
+body {
+    font-family: 'caveat';
+    color: #051202;
+    font-weight: 500;
+}
 /* Flex */
 
 .flex {
@@ -44,14 +51,58 @@ footer {
     font-size: 14px;
     margin: 1%;
     padding: 3%;
-    color: #000000;
+    color: inherit;
     text-align: center;
 }
 
-.enquire  {
+.enquire {
     font-size: 14px;
     margin: 1%;
     padding: 3%;
-    color: #000000;
+    color: inherit;
     text-align: center;
+}
+
+/* Header */
+
+header > a {
+    text-decoration: none;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'caveat';
+    letter-spacing: 3px;
+    text-align: center;
+    color: #ACF39D
+}
+
+#logo {
+    font-size: 180%;
+    margin-bottom: 10px;
+}
+
+#navigation {
+    font-family: 'caveat';
+    letter-spacing: 3px;
+    text-align: center;
+    margin-right: 35px;
+}
+
+#navigation li {
+    list-style-type: none;
+    display: inline;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navigation a:hover {
+    border-bottom: 2px solid #051202;
+}
+
+.active {
+    border-bottom: 2px solid #051202;
 }
