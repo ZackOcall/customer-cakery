@@ -28,6 +28,10 @@
 
 ## Credits
  
+### Images
 * All icons provided by Font Awesome [Link](https://fontawesome.com/)
+
+### Code
+* Code for flex used from [Link](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 
 ## Disclaimer
