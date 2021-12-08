@@ -1,2 +1,57 @@
 /* Google font import */
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+/* Flex */
+
+.flex {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.flex-main {
+    flex: 1;
+}
+
+/* Footer */
+
+footer {
+    height: 100px;
+}
+
+.socials-1 {
+    margin-bottom: -5%;
+}
+
+.socials-1, .socials-2 {
+    text-align: center;
+}
+
+.socials-1 > a, .socials-2 > a {
+    display:inline
+}
+
+.socials-1 i, .socials-2 i {
+    font-size: 25px;
+    margin: 1%;
+    padding: 3%;
+    color: #EFBDEB;
+    width: 2%;
+    height: 25px;
+}
+
+.contact h2 {
+    font-size: 14px;
+    margin: 1%;
+    padding: 3%;
+    color: #000000;
+    text-align: center;
+}
+
+.enquire  {
+    font-size: 14px;
+    margin: 1%;
+    padding: 3%;
+    color: #000000;
+    text-align: center;
+}
