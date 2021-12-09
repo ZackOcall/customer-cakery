@@ -7,6 +7,7 @@ body {
     font-family: 'caveat';
     color: #051202;
     font-weight: 500;
+    background: #10040F url(/assets/images/background.jpg) top center/ cover no-repeat fixed
 }
 /* Flex */
 
