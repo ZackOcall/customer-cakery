@@ -43,7 +43,7 @@ footer {
     font-size: 25px;
     margin: 1%;
     padding: 3%;
-    color: #EFBDEB;
+    color: #A4289A;
     width: 2%;
     height: 25px;
 }
@@ -56,12 +56,26 @@ footer {
     text-align: center;
 }
 
-.enquire {
-    font-size: 14px;
-    margin: 1%;
-    padding: 3%;
-    color: inherit;
+#box {
     text-align: center;
+    width: 100%;
+}
+
+.enquire {
+    text-align: center;
+    width: 120px;
+    height: 55px;
+    font-size: 40px;
+    padding: 1%;
+    color: #051202;
+    border: 3px solid #ACF39D;
+    border-radius: 3px;
+    background-color: #effded;
+}
+
+#box a {
+    text-decoration: none;
+    color: inherit;
 }
 
 /* Header */
