@@ -29,8 +29,9 @@
 ## Credits
  
 ### Images
-* All icons provided by Font Awesome [Link](https://fontawesome.com/)
-
+* All icons provided by Font Awesome [Link](https://fontawesome.com/).
+* All photographs provided by Unsplash [Link](https://unsplash.com/).
+   * background.jpg by Jai Kumar [Link](https://unsplash.com/@harvestcreativemedia)
 ### Code
 * Code for flex used from [Link](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 
