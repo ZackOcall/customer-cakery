@@ -9,6 +9,11 @@ body {
     font-weight: 500;
     background: #10040F url(/assets/images/background.jpg) top center/ cover no-repeat fixed
 }
+
+.header {
+    position: fixed;
+    width: 100%;
+}
 /* Flex */
 
 .flex {
