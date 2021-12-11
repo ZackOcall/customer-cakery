@@ -82,11 +82,12 @@ footer {
     width: 120px;
     height: 55px;
     font-size: 40px;
-    padding: 1%;
-    color: #051202;
+    padding: 3%;
     border: 3px solid #ACF39D;
     border-radius: 3px;
     background-color: #effded;
+    text-transform: uppercase;
+    font-weight: 900;
 }
 
 #box a {
