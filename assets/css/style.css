@@ -150,3 +150,11 @@ h1 {
     position: relative;
     color: inherit;
 }
+
+p  {
+    text-align: center;
+    margin-top: -5%;
+    font-size: 100%;
+    color: inherit;
+    font-weight: 500;
+}
