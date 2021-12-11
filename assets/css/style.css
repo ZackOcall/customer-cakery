@@ -145,7 +145,8 @@ h1 {
 
 #sub-head {
     text-align: center;
-    margin-top: 50px;
-    font-size: 120%;
+    margin-top: 35px;
+    font-size: 150%;
     position: relative;
+    color: inherit;
 }
