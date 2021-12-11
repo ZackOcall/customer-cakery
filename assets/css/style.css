@@ -7,7 +7,12 @@ body {
     font-family: 'caveat';
     color: #051202;
     font-weight: 500;
-    background: #10040F url(/assets/images/background.jpg) top center/ cover no-repeat fixed
+    background-image: url(/assets/images/background.jpg);
+    background-color: #051202;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .header {
