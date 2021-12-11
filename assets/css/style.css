@@ -15,6 +15,10 @@ body {
     background-attachment: fixed;
 }
 
+div {
+    display: block;
+}
+
 .header {
     position: fixed;
     width: 100%;
@@ -166,4 +170,22 @@ h1 {
     font-size: 90%;
     color: #ffffff;
     font-weight: 500;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+    margin: 0;
+    padding: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
+
+img {
+    height: 500px;
+    width: 100%;
 }
