@@ -77,16 +77,20 @@ footer {
 }
 
 #box {
-    text-align: center;
-    width: 100%;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
 }
 
 .enquire {
     text-align: center;
-    width: 120px;
+    width: 150px;
     height: 55px;
     font-size: 40px;
     padding: 3%;
+    margin-bottom: -5%;
     border: 3px solid #ACF39D;
     border-radius: 3px;
     background-color: #effded;
@@ -152,7 +156,6 @@ h1 {
     text-align: center;
     margin-top: 35px;
     font-size: 150%;
-    position: #ffffff;
     color: inherit;
 }
 
@@ -172,20 +175,16 @@ h1 {
     font-weight: 500;
 }
 
-#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 2;
-    column-gap: 0;
-    margin: 0;
-    padding: 0;
-}
-
-#photos > img {
-    width: 100%;
+#image-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
 img {
     height: 500px;
     width: 100%;
+    flex: 200px;
 }
