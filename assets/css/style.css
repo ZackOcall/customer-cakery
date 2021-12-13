@@ -13,6 +13,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    border: 0;
 }
 
 div {
@@ -39,6 +40,10 @@ div {
 
 .flex-main {
     flex: 1;
+}
+
+.flex-main-2 {
+    flex: 0;
 }
 
 /* Footer */
@@ -207,5 +212,15 @@ img {
     flex: 200px;
 }
 
+#price {
+    text-align: center;
+    margin-top: 0%;
+    font-size: 300%;
+    color: #ffffff;
+    font-weight: 500;
+}
 
-
+p {
+    margin: 0;
+    padding: 0;
+}
