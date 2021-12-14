@@ -7,8 +7,8 @@ body {
     font-family: 'caveat';
     color: #051202;
     font-weight: 500;
-    background-image: url(/assets/images/background.jpg);
-    background-color: #051202;
+    background-image: url(../assets/images/background.jpg);
+    background-color: #F3CEF0;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -18,6 +18,7 @@ body {
 
 div {
     display: block;
+    margin-top: 30px;
 }
 
 .header {
@@ -29,6 +30,11 @@ div {
     top: 0;
     background-color: #effded;
     z-index: 3;
+}
+
+form {
+    display: block;
+    margin-top: 30px;
 }
 /* Flex */
 
