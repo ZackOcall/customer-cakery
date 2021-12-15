@@ -5,7 +5,7 @@
 
 body {
     font-family: 'caveat';
-    color: #051202;
+    color: #ffffff;
     font-weight: 500;
 }
 
@@ -73,7 +73,7 @@ footer {
     font-size: 60px;
     margin: 1%;
     padding: 3%;
-    color: #051202;
+    color: #ffffff;
     width: 15%;
     height: 25px;
 }
@@ -92,7 +92,7 @@ footer {
     margin: 1%;
     margin-top: 5%;
     padding: 1%;
-    color: inherit;
+    color: #ffffff;
     text-align: center;
     
 }
@@ -135,7 +135,7 @@ footer {
 
 #box a {
     text-decoration: none;
-    color: inherit;
+    color: #ACF39D
 }
 
 .margin-top {
@@ -178,7 +178,7 @@ h1 {
 
 #navigation a {
     text-decoration: none;
-    color: inherit;
+    color: #051202;
 }
 
 #navigation a:hover {
@@ -195,7 +195,7 @@ h1 {
     text-align: center;
     margin-top: 35px;
     font-size: 150%;
-    color: inherit;
+    color: #ffffff;
 }
 
 .text  {
