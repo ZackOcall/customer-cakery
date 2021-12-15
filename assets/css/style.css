@@ -63,7 +63,6 @@ footer {
 
 .socials-1, .socials-2 {
     text-align: center;
-    margin-bottom: -5%;
 }
 
 .socials-1 > a, .socials-2 > a {
@@ -71,12 +70,21 @@ footer {
 }
 
 .socials-1 i, .socials-2 i {
-    font-size: 25px;
+    font-size: 60px;
     margin: 1%;
     padding: 3%;
     color: #051202;
-    width: 2%;
+    width: 15%;
     height: 25px;
+}
+
+.socials-1 {
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+.socials-2 {
+    margin-top: 10px;
 }
 
 .contact {
