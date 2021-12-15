@@ -2,6 +2,14 @@
 
 ## UX
 
+## Strategy
+
+## Scope
+
+## Structure
+
+## Skeleton
+
 ### Wireframes
 
 * Home Wireframe [Link](./assets/images/home-wireframe.jpg)
@@ -9,6 +17,12 @@
 * Gallery Wireframe [Link](./assets/images/gallery-wireframe.jpg)
 * Enquiry Form Wireframe [Link](./assets/images/enquire-form-wireframe.jpg)
 * Enquiry Comfirmation Wireframe [Link](./assets/images/enquire-comfirmation-wireframe.jpg)
+
+## Surface
+
+### Colour Scheme
+
+I used Contrast Ratio to test the accessibility of my colours [Link](https://contrast-ratio.com/#%23fff-on-%230E3F07) for the text and background colour if image failed to load and [Link](https://contrast-ratio.com/#%2363185C-on-%23effded) for the heading and enquire button text and background colour.
 
 ## Features
 
