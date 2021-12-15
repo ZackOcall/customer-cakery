@@ -134,7 +134,7 @@ footer {
     font-weight: 900;
 }
 
-#box a {
+#box a, #box button {
     text-decoration: none;
     color: #63185C
 }
@@ -179,7 +179,7 @@ h1 {
 
 #navigation a {
     text-decoration: none;
-    color: #051202;
+    color: #63185C;
 }
 
 #navigation a:hover {
