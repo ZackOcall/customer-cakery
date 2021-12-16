@@ -101,11 +101,9 @@ footer {
 
 .enquire {
     text-align: center;
-    width: 150px;
     height: 55px;
     font-size: 45px;
     padding: 3%;
-    padding-right: 7%;
     margin-bottom: -5%;
     border: 3px solid #63185C;
     border-radius: 3px;
@@ -116,9 +114,9 @@ footer {
 
 .enquire-button {
     text-align: center;
-    width: 225px;
-    height: 75px;
-    font-size: 40px;
+    max-width: 64%;
+    height: 100%;
+    font-size: 130%;
     padding: 3%;
     margin-bottom: -5%;
     border: 3px solid #63185C;
