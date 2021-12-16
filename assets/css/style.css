@@ -10,7 +10,7 @@ body {
 }
 
 #background-image {
-    background-image: url(./assets/images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-color: #0E3F07;
     background-position: center;
     background-size: cover;
