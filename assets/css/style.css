@@ -7,6 +7,8 @@ body {
     font-family: 'caveat';
     color: #000000;
     font-weight: 500;
+    padding: 0;
+    margin: 0;
 }
 
 #background-image {
@@ -24,7 +26,7 @@ div {
 }
 
 .header {
-    position: fixed;
+    position: relative;
     width: 100%;
     height: 65px;
     left: 0;
@@ -77,15 +79,6 @@ footer {
     color: #000000;
     width: 15%;
     height: 25px;
-}
-
-.socials-1 {
-    margin-bottom: -10px;
-    margin-top: -10px;
-}
-
-.socials-2 {
-    margin-top: 10px;
 }
 
 .contact {
