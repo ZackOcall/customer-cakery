@@ -67,6 +67,7 @@ footer {
 
 .socials-1 > a, .socials-2 > a {
     display: inline;
+    text-decoration: none;
 }
 
 .socials-1 i, .socials-2 i {
