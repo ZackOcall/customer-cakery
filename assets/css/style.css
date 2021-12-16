@@ -97,7 +97,7 @@ footer {
     
 }
 
-#box {
+#enquire-box {
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
@@ -134,7 +134,7 @@ footer {
     font-weight: 900;
 }
 
-#box a, #box button {
+#enquire-box a, #enquire-box button {
     text-decoration: none;
     color: #63185C
 }
