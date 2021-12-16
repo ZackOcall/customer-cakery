@@ -5,7 +5,7 @@
 
 body {
     font-family: 'caveat';
-    color: #ffffff;
+    color: #000000;
     font-weight: 500;
 }
 
@@ -73,7 +73,7 @@ footer {
     font-size: 60px;
     margin: 1%;
     padding: 3%;
-    color: #ffffff;
+    color: #000000;
     width: 15%;
     height: 25px;
 }
@@ -92,7 +92,7 @@ footer {
     margin: 1%;
     margin-top: 5%;
     padding: 1%;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     
 }
@@ -196,14 +196,14 @@ h1 {
     text-align: center;
     margin-top: 35px;
     font-size: 35px;
-    color: #ffffff;
+    color: #000000;
 }
 
 .text  {
     text-align: center;
     margin-top: 0%;
     font-size: 30px;
-    color: #ffffff;
+    color: #000000;
     font-weight: 500;
 }
 
@@ -211,7 +211,7 @@ h1 {
     text-align: center;
     margin-top: 0%;
     font-size: 25px;
-    color: #ffffff;
+    color: #000000;
     font-weight: 500;
 }
 
@@ -233,7 +233,7 @@ img {
     text-align: center;
     margin-top: 0%;
     font-size: 115px;
-    color: #ffffff;
+    color: #000000;
     font-weight: 500;
 }
 
