@@ -45,7 +45,7 @@ I used Contrast Ratio to test the accessibility of my colours [Link](https://con
 ### Images
 * All icons provided by Font Awesome [Link](https://fontawesome.com/).
 * All photographs provided by Unsplash [Link](https://unsplash.com/).
-   * background.jpg by Jai Kumar [Link](https://unsplash.com/@harvestcreativemedia)
+   * background.jpg by Jason Leung [Link](https://unsplash.com/@ninjason)
    * purple-cake.jpg by Christina Victoria Craft [Link](https://unsplash.com/@victoriabcphotographer)
    * black-cake.jpg by Jacqueline A Hernandez [Link](https://unsplash.com/@jacquelinegalindo)
    * white-decorated-cake.jpg by Scott Osborn [Link](https://unsplash.com/@scottosbornphoto)
