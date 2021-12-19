@@ -218,6 +218,10 @@ h1 {
     justify-content: center;
 }
 
+#image-flex > img {
+    margin: 1%;
+}
+
 img {
     height: 500px;
     width: 100%;
