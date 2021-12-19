@@ -150,13 +150,14 @@ h1 {
 }
 
 #logo {
-    font-size: 200%;
+    font-size: 250%;
     margin-bottom: 0px;
     margin-top: 0px;
 }
 
 #navigation {
     font-family: 'caveat';
+    font-size: 150%;
     letter-spacing: 3px;
     text-align: center;
     margin-right: 35px;
