@@ -220,6 +220,7 @@ h1 {
 
 #image-flex > img {
     margin: 1%;
+    flex: 0 1 350px;
 }
 
 img {
