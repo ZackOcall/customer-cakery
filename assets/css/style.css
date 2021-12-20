@@ -245,6 +245,8 @@ p {
     background-color: rgba(255, 255, 255, 0.7);
 }
 
+/* 750px-1200px width */
+
 @media screen and (min-width: 750px) {
     .socials-1 {
         float: left;
@@ -330,4 +332,17 @@ p {
         margin-bottom: 0px;
         margin-top: 0px;
     }
+}
+/* 1200px and higher width*/
+@media screen and (min-width: 1200px) {
+    
+    .socials-1 i, .socials-2 i {
+        font-size: 100px;
+        margin: 1%;
+        padding: 3%;
+        color: #000000;
+        width: 15%;
+        height: 25px;
+    }
+
 }
