@@ -248,6 +248,7 @@ p {
 /* 750px-1200px width */
 
 @media screen and (min-width: 750px) {
+    
     .socials-1 {
         float: left;
         text-align: center;
@@ -282,9 +283,9 @@ p {
         flex-wrap: wrap;
         align-items: center;
         justify-content: center;
-     }
+    }
      
-     .enquire {
+    .enquire {
          text-align: center;
          height: 75px;
          font-size: 65px;
@@ -295,9 +296,9 @@ p {
          background-color: #effded;
          text-transform: uppercase;
          font-weight: 900;
-     }
+    }
      
-     .enquire-button {
+    .enquire-button {
          text-align: center;
          max-width: 64%;
          height: 100%;
@@ -309,9 +310,10 @@ p {
          background-color: #effded;
          text-transform: uppercase;
          font-weight: 900;
-     }
+    }
 
-     p {
+
+    p {
         margin: 0;
         margin-bottom: 2%;
         padding: 0;
