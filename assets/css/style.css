@@ -465,4 +465,10 @@ p {
         margin-bottom: 10px;
         font-size: 25px;
     }
+
+    .textarea {
+        width: 50%;
+        height: 125px;
+        font-size: 25px;
+    }
 }
