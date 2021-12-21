@@ -376,6 +376,12 @@ p {
         font-size: 45px;
         color: #000000;
     }
+
+    .input {
+        width: 250px;
+        height: 32px;
+        margin-bottom: 10px;
+    }
 }
 /* 1200px and higher width*/
 @media screen and (min-width: 1200px) {
