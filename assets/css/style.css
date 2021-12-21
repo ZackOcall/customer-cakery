@@ -383,6 +383,12 @@ p {
         margin-bottom: 10px;
         font-size: 20px;
     }
+
+    .textarea {
+        width: 50%;
+        height: 125px;
+        font-size: 20px;
+    }
 }
 /* 1200px and higher width*/
 @media screen and (min-width: 1200px) {
