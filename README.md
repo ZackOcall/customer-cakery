@@ -24,6 +24,8 @@ The project is devoloped using HTML and CSS.
 
 ## Scope
 
+### Requirements
+
 ## Structure
 
 ## Skeleton
