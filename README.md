@@ -1,5 +1,9 @@
 # Customer Cakery
 
+This project is a static website for a Cake Baking company called Customer Cakery.
+
+[View the website on github pages here](https://zackocall.github.io/customer-cakery/).
+
 ## Overview
 
 **Customer Cakery**
