@@ -56,6 +56,10 @@ I used Contrast Ratio to test the accessibility of my colours [Link](https://con
 
 I also used a image as my background with multiple colors, to allow accessibility I added a background of rgba(255, 255, 255, 0.7); with a text colour of #000000, No matter what colour of text I used be it black, white or pink it would all be un-accessable due to the multitude of colours in all of the potential background images I had, I was originally planning to put the text blocks into boxes like the enquire button however my Mentor guided in the direction of using a background lacking opacity to fix the accessability.
 
+### Font
+
+### Images
+
 ## Features
 
 ### Navigation Bar
