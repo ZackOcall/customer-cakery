@@ -28,6 +28,16 @@ The project is devoloped using HTML and CSS.
 
 ## Structure
 
+### Home Page
+
+### About-Us Page
+
+### Gallery Page
+
+### Enquire Page
+
+### Enquire-Confirmation Page
+
 ## Skeleton
 
 ### Wireframes
