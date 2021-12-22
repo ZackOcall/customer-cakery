@@ -67,6 +67,8 @@ I also used a image as my background with multiple colors, to allow accessibilit
 
 ### Images
 
+All images were sourced from [Unsplash](https://unsplash.com/). The image chosen for the background was chosen as it showed off the beauty and style of our company through the cake. All other images in the gallery were chosen as they showcased a wide variety of styles to show the customers that any cake they can dream of can be made for them. All images contained a cake and showed off a wide range of colours.
+
 ## Features
 
 ### Navigation Bar
