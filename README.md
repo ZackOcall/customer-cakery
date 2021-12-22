@@ -50,6 +50,8 @@ The project is devoloped using HTML and CSS.
 
 ## Surface
 
+The project's style matches the company's branding, playful, colourful and helpful.
+
 ### Colour Scheme
 
 I used Contrast Ratio to test the accessibility of my colours [Link](https://contrast-ratio.com/#%23000000-on-%23EFBDEB) for the text and background colour if image failed to load and [Link](https://contrast-ratio.com/#%2363185C-on-%23effded) for the heading and enquire button text and background colour. For the backgrounds I chose #EFBDEB and #EFFDED as both are extremly bright and playful which I want anyone who uses the site to get instantly, I used the text colour of #63185C as I didn't want something boring for the header however I couldn't have it be too colourful to the point it wouldn't be readable.
