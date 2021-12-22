@@ -1,5 +1,13 @@
 # Customer Cakery
 
+## Overview
+
+**Customer Cakery**
+
+Customer Cakery is a Cake baking and decorarting company. Customers can enquire for a price of their chosen dream cake for free, Customers can then choose to pay a invoice to also get 3 custome designs from qualified cake decorators for £14.99. After collecting all information we will send over the pricing and designs within 3 days and offer to make the designs for a set price over the email provided.
+
+The project is devoloped using HTML and CSS.
+
 ## UX
 
 ## Strategy
