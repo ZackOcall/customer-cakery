@@ -84,6 +84,7 @@ footer {
 
 .contact {
     font-size: 35px;
+    font-family: 'Raleway', sans-serif;
     margin: 1%;
     margin-top: 5%;
     padding: 1%;
@@ -195,6 +196,7 @@ h1 {
 
 .text  {
     text-align: center;
+    font-family: 'Raleway', sans-serif;
     margin-top: 0%;
     font-size: 30px;
     color: #000000;
@@ -203,6 +205,7 @@ h1 {
 
 .list  {
     text-align: center;
+    font-family: 'Raleway', sans-serif;
     list-style-position: inside;
     margin-top: 0%;
     font-size: 25px;
@@ -346,6 +349,7 @@ p {
 
     .text  {
         text-align: center;
+        font-family: 'Raleway', sans-serif;
         margin-top: 0%;
         font-size: 45px;
         color: #000000;
@@ -354,6 +358,7 @@ p {
 
     .list  {
         text-align: center;
+        font-family: 'Raleway', sans-serif;
         list-style-position: inside;
         margin-top: 0%;
         font-size: 40px;
@@ -363,6 +368,7 @@ p {
 
     .contact {
         font-size: 40px;
+        font-family: 'Raleway', sans-serif;
         margin: 1%;
         margin-top: 5%;
         padding: 1%;
@@ -428,6 +434,7 @@ p {
 
     .text  {
         text-align: center;
+        font-family: 'Raleway', sans-serif;
         margin-top: 0%;
         font-size: 60px;
         color: #000000;
@@ -436,6 +443,7 @@ p {
 
     .list  {
         text-align: center;
+        font-family: 'Raleway', sans-serif;
         list-style-position: inside;
         margin-top: 0%;
         font-size: 55px;
@@ -445,6 +453,7 @@ p {
 
     .contact {
         font-size: 60px;
+        font-family: 'Raleway', sans-serif;
         margin: 1%;
         margin-top: 5%;
         padding: 1%;
