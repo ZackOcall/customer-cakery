@@ -16,6 +16,12 @@ The project is devoloped using HTML and CSS.
 
 ## Strategy
 
+### User Stories
+
+### Competitor Scouting
+
+### Business Goals
+
 ## Scope
 
 ## Structure
