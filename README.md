@@ -60,6 +60,11 @@ I also used a image as my background with multiple colors, to allow accessibilit
 
 ### Font
 
+[Caveat](https://fonts.google.com/specimen/Caveat?query=caveat) was my chosen font for the Navigation, subhead, enquire button and price. While browsing for a font which completely encompassed my company's style branding, I came across Caveat over a single glance was instantly recognisable to the eye. The font style is both playful and eyecatching while not being too hard too read. I orginally had this font for the whole website however I decided it would be for helpful to have a softer and less playful style for the text outside of the navigation and sub-head.
+
+[Raleway](https://fonts.google.com/specimen/Raleway?query=rale) was the font I used for text, contact and lists. After realising my text was blending in due to how playful Caveat was all over the page I decided to find a new font to go well with it, I found Raleway and Montserrat but ended going on with Raleway as it felt softer and balanced out well with Caveat.
+
+
 ### Images
 
 ## Features
