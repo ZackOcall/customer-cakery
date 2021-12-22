@@ -144,7 +144,7 @@ header > a {
 
 h1 {
     text-transform: uppercase;
-    font-family: 'caveat';
+    font-family: 'Caveat', cursive;
     letter-spacing: 3px;
     text-align: center;
     color: #63185C
@@ -157,7 +157,7 @@ h1 {
 }
 
 #navigation {
-    font-family: 'caveat';
+    font-family: 'Caveat', cursive;
     font-size: 150%;
     letter-spacing: 3px;
     text-align: center;
@@ -327,7 +327,7 @@ p {
     }
     
     #navigation {
-        font-family: 'caveat';
+        font-family: 'Caveat', cursive;
         font-size: 200%;
         letter-spacing: 3px;
         text-align: center;
@@ -409,7 +409,7 @@ p {
     }
     
     #navigation {
-        font-family: 'caveat';
+        font-family: 'Caveat', cursive;
         font-size: 300%;
         letter-spacing: 3px;
         text-align: center;
