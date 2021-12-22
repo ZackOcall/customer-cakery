@@ -12,7 +12,7 @@ Customer Cakery is a Cake baking and decorarting company. Customers can enquire 
 
 The project is devoloped using HTML and CSS.
 
-## UX
+# UX
 
 ## Strategy
 
