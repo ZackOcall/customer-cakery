@@ -47,8 +47,9 @@ The project is devoloped using HTML and CSS.
 
 **Cost Approach**
 
-* Transparent about the cost of designs before enquiring.
+* Transparent about the cost of designs(£14.99) before enquiring.
 * Push the free aspect of enquiring.
+* Table of content to explain base cost ideas.
 
 ## Structure
 
