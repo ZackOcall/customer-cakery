@@ -26,6 +26,12 @@ The project is devoloped using HTML and CSS.
 
 ### Requirements
 
+**Interaction** 
+
+* Each page should contain some way to interact with the site.
+* Interaction is done through Navigation and Enquire Form.
+* All forms of interaction should be clear.
+
 ## Structure
 
 ### Home Page
