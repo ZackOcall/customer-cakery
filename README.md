@@ -129,6 +129,7 @@ All images were sourced from [Unsplash](https://unsplash.com/). The image chosen
 ### Code
 * Code for flex used from [Link](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 * Helped me better understand flex for image flex's [Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+* Helped me better understand table CSS [Link](https://www.w3schools.com/css/css_table.asp)
 
 ## Disclaimer
 
