@@ -39,6 +39,12 @@ The project is devoloped using HTML and CSS.
 * Descriptions are easy to understand and concise.
 * All information is important and has a reason to be there.
 
+**Ease Of Access**
+
+* Everything on the page is minimilistic as possible and friendly to the customer.
+* Branding is clear from the landing page and throughout.
+* Provide numerous ways to get in contact with the business.
+
 ## Structure
 
 ### Home Page
