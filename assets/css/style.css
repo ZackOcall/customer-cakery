@@ -249,6 +249,16 @@ p {
     background-color: rgba(255, 255, 255, 0.7);
 }
 
+table, th, td {
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 50%;
+}
+
 /* 750px-1200px width */
 
 @media screen and (min-width: 750px) {
