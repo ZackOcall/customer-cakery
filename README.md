@@ -45,6 +45,11 @@ The project is devoloped using HTML and CSS.
 * Branding is clear from the landing page and throughout.
 * Provide numerous ways to get in contact with the business.
 
+**Cost Approach**
+
+* Transparent about the cost of designs before enquiring.
+* Push the free aspect of enquiring.
+
 ## Structure
 
 ### Home Page
