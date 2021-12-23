@@ -32,6 +32,13 @@ The project is devoloped using HTML and CSS.
 * Interaction is done through Navigation and Enquire Form.
 * All forms of interaction should be clear.
 
+**Convey Purpose**
+
+* Explain key purpose of website in the landing page.
+* Go further in detail on seperate page.
+* Descriptions are easy to understand and concise.
+* All information is important and has a reason to be there.
+
 ## Structure
 
 ### Home Page
