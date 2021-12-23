@@ -409,6 +409,16 @@ table {
         height: 125px;
         font-size: 20px;
     }
+
+    table, th, td {
+        border: 3px solid black;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Raleway', sans-serif;
+        font-size: 40px;
+        color: #000000;
+        font-weight: 500;
+    }
 }
 /* 1200px and higher width*/
 @media screen and (min-width: 1200px) {
