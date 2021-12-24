@@ -20,11 +20,11 @@ The project is devoloped using HTML and CSS.
 
 ### Competitor Scouting
 
-[Link](https://www.liggyscakes.co.uk/)
+[Liggy Cake Co.](https://www.liggyscakes.co.uk/)
 
-[Link](https://www.theenchantingcakecompany.co.uk/)
+[The Enchanting Cake Company](https://www.theenchantingcakecompany.co.uk/)
 
-[Link](https://thecakearchitect.co.uk/)
+[The Cake Architect](https://thecakearchitect.co.uk/)
 
 ### Business Goals
 
@@ -73,11 +73,11 @@ The project is devoloped using HTML and CSS.
 
 ### Wireframes
 
-* Home Wireframe [Link](./assets/images/home-wireframe.jpg)
-* About Us Wireframe [Link](./assets/images/about-us-wireframe.jpg)
-* Gallery Wireframe [Link](./assets/images/gallery-wireframe.jpg)
-* Enquiry Form Wireframe [Link](./assets/images/enquire-form-wireframe.jpg)
-* Enquiry Comfirmation Wireframe [Link](./assets/images/enquire-comfirmation-wireframe.jpg)
+* [Home Wireframe](./assets/images/home-wireframe.jpg)
+* [About Us Wireframe](./assets/images/about-us-wireframe.jpg)
+* [Gallery Wireframe](./assets/images/gallery-wireframe.jpg)
+* [Enquiry Form Wireframe](./assets/images/enquire-form-wireframe.jpg)
+* [Enquiry Comfirmation Wireframe](./assets/images/enquire-comfirmation-wireframe.jpg)
 
 ## Surface
 
