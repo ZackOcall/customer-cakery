@@ -18,6 +18,12 @@ The project is devoloped using HTML and CSS.
 
 ### User Stories
 
+1. As a first time visitor to the website, I want to know what the company does from the home page
+2. As a pontential customer, I would like to know what services can be made.
+3. As a customer who is curious, I would like to know how much everything would cost me & history of pontential designs.
+4. As a assured customer, I want to be able to make my enquiry easily.
+5. As a enquired customer, I would like to be able to be in contact with the company.
+
 ### Competitor Scouting
 
 [Liggy Cake Co.](https://www.liggyscakes.co.uk/): A giant number of options where they can order a specified cake while also being able to book a consultation.
