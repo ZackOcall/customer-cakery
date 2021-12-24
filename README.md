@@ -20,6 +20,12 @@ The project is devoloped using HTML and CSS.
 
 ### Competitor Scouting
 
+[Link](https://www.liggyscakes.co.uk/)
+
+[Link](https://www.theenchantingcakecompany.co.uk/)
+
+[Link](https://thecakearchitect.co.uk/)
+
 ### Business Goals
 
 ## Scope
@@ -79,7 +85,7 @@ The project's style matches the company's branding, playful, colourful and helpf
 
 ### Colour Scheme
 
-I used Contrast Ratio to test the accessibility of my colours [Link](https://contrast-ratio.com/#%23000000-on-%23EFBDEB) for the text and background colour if image failed to load and [Link](https://contrast-ratio.com/#%2363185C-on-%23effded) for the heading and enquire button text and background colour. For the backgrounds I chose #EFBDEB and #EFFDED as both are extremly bright and playful which I want anyone who uses the site to get instantly, I used the text colour of #63185C as I didn't want something boring for the header however I couldn't have it be too colourful to the point it wouldn't be readable.
+I used Contrast Ratio to test the accessibility of my [colours](https://contrast-ratio.com/#%23000000-on-%23EFBDEB) for the text and background colour if image failed to load and these [colours](https://contrast-ratio.com/#%2363185C-on-%23effded) for the heading and enquire button text and background colour. For the backgrounds I chose #EFBDEB and #EFFDED as both are extremly bright and playful which I want anyone who uses the site to get instantly, I used the text colour of #63185C as I didn't want something boring for the header however I couldn't have it be too colourful to the point it wouldn't be readable.
 
 I also used a image as my background with multiple colors, to allow accessibility I added a background of rgba(255, 255, 255, 0.7); with a text colour of #000000, No matter what colour of text I used be it black, white or pink it would all be un-accessable due to the multitude of colours in all of the potential background images I had, I was originally planning to put the text blocks into boxes like the enquire button however my Mentor guided in the direction of using a background lacking opacity to fix the accessability.
 
