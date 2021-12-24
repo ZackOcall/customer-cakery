@@ -28,6 +28,20 @@ The project is devoloped using HTML and CSS.
 
 ### Business Goals
 
+* Make a positive and inviting feeling from the branding of the website.
+  * Branding to be strong, playful and obvious.
+  * Branding to be consistent throughout the website.
+  * Do not overwhelm the user.
+  * Style/Deisng matches the brandning of the company.
+* Make the user feel at ease.
+  * Use of you everywhere to make user's feel more welcome.
+  * Offer a lot of options to get in contact with company.
+  * Be upfront about everything.
+* Be as transparent as possible with pricing.
+  * The user has all the power on the price.
+  * Offer free Enquiries.
+  * Explain all potential pricing.
+
 ## Scope
 
 ### Requirements
