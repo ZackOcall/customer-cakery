@@ -20,11 +20,11 @@ The project is devoloped using HTML and CSS.
 
 ### Competitor Scouting
 
-[Liggy Cake Co.](https://www.liggyscakes.co.uk/)
+[Liggy Cake Co.](https://www.liggyscakes.co.uk/): A giant number of options where they can order a specified cake while also being able to book a consultation.
 
-[The Enchanting Cake Company](https://www.theenchantingcakecompany.co.uk/)
+[The Enchanting Cake Company](https://www.theenchantingcakecompany.co.uk/): Bespoke only, booking deposit and a lot of information to explain there process.
 
-[The Cake Architect](https://thecakearchitect.co.uk/)
+[The Cake Architect](https://thecakearchitect.co.uk/): Bespoke only, Has price ranges with with visuals of what type of cake you will get for that price.
 
 ### Business Goals
 
