@@ -107,8 +107,10 @@ The project is devoloped using HTML and CSS.
 ### Gallery Page
 
 * User Goal
+   * See examples of cakes that the company has done. 
 
 * Business Goal
+   * Showcase a variety of cake styles from tiers, designs, shapes and more.
 
 ### Enquire Page
 
