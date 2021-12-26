@@ -94,8 +94,15 @@ The project is devoloped using HTML and CSS.
 ### About-Us Page
 
 * User Goal
+   * Understand more about the company.
+   * Understand more about the pricing of the cakes.
+   * Understand how the process works.
 
 * Business Goal
+   * Provide clarity with the user.
+   * Sell the brand and process.
+   * Reasure the user on everything.
+
 
 ### Gallery Page
 
