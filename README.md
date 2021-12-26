@@ -126,8 +126,13 @@ The project is devoloped using HTML and CSS.
 ### Enquire-Confirmation Page
 
 * User Goal
+   * Learn more about what's next.
+   * Have ways to contact about enquiry.
 
 * Business Goal
+   * Further engagement with the company.
+   * Reasure about the enquiry.
+   * Promote a payed service to the user.
 
 ## Skeleton
 
