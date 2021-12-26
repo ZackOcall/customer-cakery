@@ -81,13 +81,33 @@ The project is devoloped using HTML and CSS.
 
 ### Home Page
 
+* User Goal
+   
+* Business Goadl
+
 ### About-Us Page
+
+* User Goal
+
+* Business Goal
 
 ### Gallery Page
 
+* User Goal
+
+* Business Goal
+
 ### Enquire Page
 
+* User Goal
+
+* Business Goal
+
 ### Enquire-Confirmation Page
+
+* User Goal
+
+* Business Goal
 
 ## Skeleton
 
