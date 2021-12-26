@@ -82,8 +82,14 @@ The project is devoloped using HTML and CSS.
 ### Home Page
 
 * User Goal
-   
-* Business Goadl
+  * Allows easy navigation around site.
+   * Explains the Companies purpose.
+   * Easy to read.
+
+* Business Goal
+   * Showcases the Companies branding and purpose.
+   * Interest and engage the user.
+   * Don't overwhelm the user.
 
 ### About-Us Page
 
