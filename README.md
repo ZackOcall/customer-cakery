@@ -115,8 +115,13 @@ The project is devoloped using HTML and CSS.
 ### Enquire Page
 
 * User Goal
+   * To make a free enquiry to the company.
+   * Simple to use.
+   * Forms a communication between user and company.
 
 * Business Goal
+   * Obtain information about the user.
+   * Start engagement with the user.
 
 ### Enquire-Confirmation Page
 
