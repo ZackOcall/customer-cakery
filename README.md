@@ -173,6 +173,12 @@ Each page has a fixed navigation bar in the header. **This will allow the new us
 
 ### Enquire Form
 
+To get to the enquire form users will be able to click on the navigation bar which is always infront of them due to it be fixed or at the bottom of every page except the enquire and enquire-confirmation page will be a enquire box link to send the user to the enquire page.
+
+**The enquire form will allow users to enter their personal details such as name(required), email(required) and phone number(not required) as well as information about their dream cake(required)**, this will form a connection between the company and the user to start the promised service. This form after everything required is filled out can be submitted and will lead to our enquire-confirmation page.
+
+Orginally I had decided to have all forms be required however I decided to only go with email as I was worried this could deter any users who felt like we were trying to a lot of the users personal information.
+
 ### Footer
 
 ## Testing
