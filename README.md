@@ -169,6 +169,8 @@ All images were sourced from [Unsplash](https://unsplash.com/). The image chosen
 
 ### Navigation Bar
 
+Each page has a fixed navigation bar in the header. **This will allow the new users a grasp off what's to come in the site as well as quick access for returning users.** As the header is fixed, the navigation bar as well as title will follow the users scrolling. The navigation bar will also have a bar underneath at all times to indicate what page of the site the user is on and will flash with a bar when a different navigation is hover over.
+
 ### Enquire Form
 
 ### Footer
