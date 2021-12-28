@@ -181,6 +181,8 @@ Orginally I had decided to have all forms be required however I decided to only 
 
 ### Footer
 
+Each footer Will contain social media(Twitter, Instagram, Facebook and TikTok) and our business email. **This is so that customers have numerous options to be able to get in touch with us be for problems with our service or just to ask questions.**
+
 ## Testing
 
 ### Google Chrome
