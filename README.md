@@ -203,6 +203,10 @@ When trying to make the images in the gallery responsive I cam upon a problem wi
 
 ## Safari(IPhone)
 
+## Automated Testing
+
+## Bugs
+
 # Credits
  
 ### Images
