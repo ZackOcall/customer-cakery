@@ -165,13 +165,13 @@ I also used a image as my background with multiple colors, to allow accessibilit
 
 All images were sourced from [Unsplash](https://unsplash.com/). The image chosen for the background was chosen as it showed off the beauty and style of our company through the cake. All other images in the gallery were chosen as they showcased a wide variety of styles to show the customers that any cake they can dream of can be made for them. All images contained a cake and showed off a wide range of colours.
 
-## Features
+# Features
 
-### Navigation Bar
+## Navigation Bar
 
 Each page has a fixed navigation bar in the header. **This will allow the new users a grasp off what's to come in the site as well as quick access for returning users.** As the header is fixed, the navigation bar as well as title will follow the users scrolling. The navigation bar will also have a bar underneath at all times to indicate what page of the site the user is on and will flash with a bar when a different navigation is hover over.
 
-### Enquire Form
+## Enquire Form
 
 To get to the enquire form users will be able to click on the navigation bar which is always infront of them due to it be fixed or at the bottom of every page except the enquire and enquire-confirmation page will be a enquire box link to send the user to the enquire page.
 
@@ -179,25 +179,31 @@ To get to the enquire form users will be able to click on the navigation bar whi
 
 Orginally I had decided to have all forms be required however I decided to only go with email as I was worried this could deter any users who felt like we were trying to a lot of the users personal information.
 
-### Footer
+## Footer
 
 Each footer Will contain social media(Twitter, Instagram, Facebook and TikTok) and our business email. **This is so that customers have numerous options to be able to get in touch with us be for problems with our service or just to ask questions.**
 
-### Responsive Layout
+## Responsive Layout
 
 With the use of flexbox and media queries, **the site's design is responsive too all screen sizes.** Breakpoints have been implemented to vary sizes and positions of content so that they fit more in line with the new extra space alloted with the new size.
 
 When trying to make the images in the gallery responsive I cam upon a problem with flex box where due to the number of images the last image would stretch up to 3 images wide causing a drastic drop in quality, as such I implemented a flex grow of 0 which while make the quality of all images be much better.
 
-## Testing
+# Testing
 
-### Google Chrome
+## Browser Testing
 
-### Safari(Tablet)
+### Chrome/Firefox/Edge
 
-### Safari(Phone)
+### Safari
 
-## Credits
+### Internet Explorer
+
+## Safari(Tablet)
+
+## Safari(IPhone)
+
+# Credits
  
 ### Images
 * All icons provided by Font Awesome [Link](https://fontawesome.com/).
