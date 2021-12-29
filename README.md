@@ -4,6 +4,25 @@ This project is a static website for a Cake Baking company called Customer Caker
 
 [View the website on github pages here](https://zackocall.github.io/customer-cakery/).
 
+# Table of contents
+
+>1. [Overview](#overview)
+>2. [UX](#ux)
+>    1. [Strategy](#strategy)
+>    2. [Scope](#scope)
+>    3. [Structure](#structure)
+>    4. [Skeleton](#skeleton)
+>    5. [Surface](#surface)
+>3. [Features](#features) 
+>4. [Testing](#testing)
+>    1. [Browser Testing](#browser-testing)
+>    2. [Automated Testing](#automated-testing)
+>    3. [Bugs](#bugs)  
+>5. [Credits](#credits)
+>    1. [Images](#images)
+>    2. [Code](#code)
+>6. [Disclaimer](#disclaimer)
+
 ## Overview
 
 **Customer Cakery**
@@ -199,9 +218,9 @@ When trying to make the images in the gallery responsive I cam upon a problem wi
 
 ### Internet Explorer
 
-## Safari(Tablet)
+### Safari(Tablet)
 
-## Safari(IPhone)
+### Safari(IPhone)
 
 ## Automated Testing
 
