@@ -224,6 +224,12 @@ When trying to make the images in the gallery responsive I cam upon a problem wi
 
 ## Automated Testing
 
+Automated testing was completed via third party applications, in order to assess and validate the project.
+
+* [W3 Markup Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F)
+   * The project's HTML was validated using W3 Markup Validator.
+   * No errors were found.
+
 ## Bugs
 
 # Credits
