@@ -226,9 +226,14 @@ When trying to make the images in the gallery responsive I cam upon a problem wi
 
 Automated testing was completed via third party applications, in order to assess and validate the project.
 
-* [W3 Markup Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F)
+1. [W3 Markup Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F)
    * The project's HTML was validated using W3 Markup Validator.
    * No errors were found.
+
+2. [W3 Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   * The project's CSS was validated using W3 Jigsaw Validator.
+   * No errors were found.
+   * The project validates as CSS level 3 + SVG.
 
 ## Bugs
 
