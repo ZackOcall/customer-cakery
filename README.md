@@ -235,6 +235,8 @@ Automated testing was completed via third party applications, in order to assess
    * No errors were found.
    * The project validates as CSS level 3 + SVG.
 
+3. [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
 ## Bugs
 
 # Credits
