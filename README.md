@@ -236,6 +236,32 @@ Automated testing was completed via third party applications, in order to assess
    * The project validates as CSS level 3 + SVG.
 
 3. [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+   Accessibility, Performance, Progressive Web Apps, and Best Practices Audit:
+    
+   **Index**
+
+   ![Index Lighthouse Score](https://i.imgur.com/QfbDrw5.png)
+
+   **About-Us**
+
+   ![About-Us Lighthouse Score](https://i.imgur.com/GCFXrpu.png)
+
+   **Gallery**
+
+   ![Gallery 1030px Lighthouse Score](https://i.imgur.com/6frR7Js.png)
+
+   ![Gallery 500px Lightouse Score](https://i.imgur.com/zkxVYCJ.png)
+
+   1030px Height caused best practice to reach 100 but lowered the performance, While 500px did the opposite with raising performance but lowering best practice. In the end I chose to go with 500px as I prefered having 1 column for phone view, 2 column for tablet view and 3-4 column for browser view rather then 1 column for phone/tablet view and 2 column for browser view which would happen with 1030px.
+
+   **Enquire**
+
+   ![Enquire Lighthouse Score](https://i.imgur.com/O3mu6zX.png)
+
+   **Enquire-Confirmation**
+
+   ![Enquire-Confirmation Lighthouse Score](https://i.imgur.com/HHlJbhy.png)
+
 
 ## Bugs
 
