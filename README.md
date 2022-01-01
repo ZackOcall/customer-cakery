@@ -218,6 +218,8 @@ All pages worked as intended.
 
 ### Safari
 
+I do not have access to any device to test browser view on safari, and unfortunately do not know anyone who would be able to test for me.
+
 ### Internet Explorer
 
 ### Safari(Tablet)
