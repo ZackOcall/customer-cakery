@@ -214,6 +214,8 @@ When trying to make the images in the gallery responsive I cam upon a problem wi
 
 ### Chrome/Firefox/Edge
 
+All pages worked as intended.
+
 ### Safari
 
 ### Internet Explorer
