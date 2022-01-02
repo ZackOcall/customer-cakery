@@ -228,7 +228,9 @@ I believe the flexbox in my footer causes it to no longer stick to the bottom of
 
 I've tested ways to change it but outside of making the footer overall very messy and less dynamic it would be best to just ignore the internet explorer problem as it is outdated.
 
-### Safari(Tablet)
+### Safari/Chrome(Tablet)
+
+All pages worked as intended.
 
 ### Safari(IPhone)
 
