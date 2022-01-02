@@ -232,7 +232,9 @@ I've tested ways to change it but outside of making the footer overall very mess
 
 All pages worked as intended.
 
-### Safari(IPhone)
+### Safari/Chrome(IPhone)
+
+Header will not correctly cover both heading title and navigation for some reason, currently looking into a fix for this.
 
 ## Automated Testing
 
