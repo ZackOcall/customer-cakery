@@ -272,10 +272,12 @@ Automated testing was completed via third party applications, in order to assess
 # Credits
 
 ### Content
+
 * All text used throughout the site was written by me.
 * Business ideas, goals, concept were all thought of by me.
  
 ### Images
+
 * All icons provided by Font Awesome [Link](https://fontawesome.com/).
 * All photographs provided by Unsplash [Link](https://unsplash.com/).
    * background.jpg by Jason Leung [Link](https://unsplash.com/@ninjason)
@@ -291,9 +293,16 @@ Automated testing was completed via third party applications, in order to assess
    * music-cake.jpg by David Holifield [Link](https://unsplash.com/@davidholifield)
 
 ### Code
+
 * Code for flex used from [Link](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 * Helped me better understand flex for image flex's [Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 * Helped me better understand table CSS [Link](https://www.w3schools.com/css/css_table.asp)
+
+# Acknowledgements
+
+* The concept of my 1st project was devised by myself getting more into baking over the past 6 months through my own baking as well as watching youtube videos.
+* Thank you to my mentor, [Ben Kavanagh](https://github.com/BAK2K3) for his immense support over our mentoring sessions, and providing me with a streamline of how to go forward into the project.
+* Thank you to [Suzy Bennet](https://github.com/suzybee1987), the MS1 Channel Lead for slack, for a great 1st look into MS1 project 1 prep and giving me a good idea of what to lookout for during the project. And for introducing me to the concept of flexbox's.
 
 ## Disclaimer
 
