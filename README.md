@@ -304,6 +304,6 @@ Automated testing was completed via third party applications, in order to assess
 * Thank you to my mentor, [Ben Kavanagh](https://github.com/BAK2K3) for his immense support over our mentoring sessions, and providing me with a streamline of how to go forward into the project.
 * Thank you to [Suzy Bennet](https://github.com/suzybee1987), the MS1 Channel Lead for slack, for a great 1st look into MS1 project 1 prep and giving me a good idea of what to lookout for during the project. And for introducing me to the concept of flexbox's.
 
-## Disclaimer
+# Disclaimer
 
 This website is for educational purposes only.
