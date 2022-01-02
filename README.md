@@ -222,7 +222,11 @@ All pages worked as intended.
 
 I do not have access to any device to test browser view on safari, and unfortunately do not know anyone who would be able to test for me.
 
-### Internet Explorer
+### Internet Explorer 
+
+I believe the flexbox in my footer causes it to no longer stick to the bottom of the page as is intended, this is due to how outdated internet explorer is and how flexbox does not work well on the browser.
+
+I've tested ways to change it but outside of making the footer overall very messy and less dynamic it would be best to just ignore the internet explorer problem as it is outdated.
 
 ### Safari(Tablet)
 
