@@ -19,9 +19,11 @@ This project is a static website for a Cake Baking company called Customer Caker
 >    2. [Automated Testing](#automated-testing)
 >    3. [Bugs](#bugs)  
 >5. [Credits](#credits)
->    1. [Images](#images)
->    2. [Code](#code)
->6. [Disclaimer](#disclaimer)
+>    1  [Content](#content)
+>    2. [Images](#images)
+>    3. [Code](#code)
+>6. [Acknowledgements](#acknowledgements)
+>7. [Disclaimer](#disclaimer)
 
 ## Overview
 
