@@ -270,6 +270,10 @@ Automated testing was completed via third party applications, in order to assess
 ## Bugs
 
 # Credits
+
+### Content
+* All text used throughout the site was written by me.
+* Business ideas, goals, concept were all thought of by me.
  
 ### Images
 * All icons provided by Font Awesome [Link](https://fontawesome.com/).
