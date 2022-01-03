@@ -3,6 +3,10 @@
 
 /* Body */
 
+html {
+    height: 100%;
+}
+
 body {
     font-family: 'Caveat', cursive; 
     color: #000000;
