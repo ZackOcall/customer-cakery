@@ -105,8 +105,15 @@ footer {
    justify-content: center;
 }
 
-input, textarea {
+input {
     width: 250px;
+    margin: 0 auto;
+    display: block;
+}
+
+textarea {
+    width: 350px;
+    height: 100px;
     margin: 0 auto;
     display: block;
 }
@@ -422,14 +429,14 @@ table {
         color: #000000;
     }
 
-    .input {
+    input {
         width: 35%;
-        height: 32px;
+        height: 20px;
         margin-bottom: 10px;
         font-size: 12px;
     }
 
-    .textarea {
+    textarea {
         width: 50%;
         height: 125px;
         font-size: 15px;
@@ -528,14 +535,14 @@ table {
         color: #000000;
     }
 
-    .input {
+    input {
         width: 35%;
         height: 30px;
         margin-bottom: 10px;
         font-size: 20px;
     }
 
-    .textarea {
+    textarea {
         width: 50%;
         height: 125px;
         font-size: 20px;
