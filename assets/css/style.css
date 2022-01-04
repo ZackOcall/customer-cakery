@@ -248,14 +248,6 @@ img {
     flex: 200px;
 }
 
-#price {
-    text-align: center;
-    margin-top: 0%;
-    font-size: 25px;
-    color: #000000;
-    font-weight: 500;
-}
-
 p {
     margin: 0;
     padding: 0;
@@ -383,14 +375,6 @@ table {
         padding-bottom: 15px;
     }
 
-    #price {
-        text-align: center;
-        margin-top: 0%;
-        font-size: 50px;
-        color: #000000;
-        font-weight: 500;
-    }
-
     .text  {
         text-align: center;
         font-family: 'Raleway', sans-serif;
@@ -487,15 +471,7 @@ table {
         margin-bottom: 0px;
         margin-top: 0px;
         padding-bottom: 15px;
-    }
-
-    #price {
-        text-align: center;
-        margin-top: 0%;
-        font-size: 200px;
-        color: #000000;
-        font-weight: 500;
-    }
+    } 
 
     .text  {
         text-align: center;
