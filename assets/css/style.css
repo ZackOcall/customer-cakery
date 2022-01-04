@@ -323,7 +323,7 @@ table {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        align-items: center;
+        margin: auto;
         justify-content: center;
     }
      
@@ -342,7 +342,7 @@ table {
     }
      
     .enquire-button {
-         text-align: center;
+         margin: auto;
          max-width: 64%;
          height: 100%;
          font-size: 35px;
