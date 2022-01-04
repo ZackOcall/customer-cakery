@@ -101,8 +101,14 @@ footer {
    display: flex;
    flex-direction: row;
    flex-wrap: wrap;
-   align-items: center;
+   margin: auto;
    justify-content: center;
+}
+
+input, textarea {
+    width: 250px;
+    margin: 0 auto;
+    display: block;
 }
 
 .enquire {
@@ -120,12 +126,13 @@ footer {
 }
 
 .enquire-button {
-    text-align: center;
+    margin: auto;
     max-width: 64%;
     height: 100%;
     font-size: 30px;
     padding: 2%;
     margin-bottom: -3%;
+    margin-top: 5%;
     border: 3px solid #63185C;
     border-radius: 3px;
     background-color: #effded;
@@ -140,6 +147,7 @@ footer {
 
 .margin-top {
     margin-top: 5%;
+    text-align: center;
 }
 
 /* Header */
