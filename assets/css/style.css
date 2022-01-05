@@ -103,6 +103,7 @@ footer {
    flex-wrap: wrap;
    margin: auto;
    justify-content: center;
+   margin-top: 5%;
 }
 
 input {
@@ -134,13 +135,10 @@ textarea {
 }
 
 .enquire-button {
-    margin: auto;
     max-width: 64%;
     height: 100%;
     font-size: 30px;
     padding: 2%;
-    margin-bottom: -3%;
-    margin-top: 5%;
     border: 3px solid #63185C;
     border-radius: 3px;
     background-color: #effded;
