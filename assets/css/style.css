@@ -146,6 +146,7 @@ textarea {
     background-color: #effded;
     text-transform: uppercase;
     font-weight: 900;
+    color: #000000;
 }
 
 #enquire-box a, #enquire-box button {
@@ -349,6 +350,7 @@ table {
          background-color: #effded;
          text-transform: uppercase;
          font-weight: 900;
+         color: #000000;
     }
 
 
