@@ -302,6 +302,11 @@ Automated testing was completed via third party applications, in order to assess
 
    ![Enquire-Confirmation Lighthouse Score](https://i.imgur.com/HHlJbhy.png)
 
+## Manual Testing
+
+### User Stories
+
+### Features
 
 ## Bugs
 
