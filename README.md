@@ -210,7 +210,17 @@ With the use of flexbox and media queries, **the site's design is responsive too
 
 When trying to make the images in the gallery responsive I cam upon a problem with flex box where due to the number of images the last image would stretch up to 3 images wide causing a drastic drop in quality, as such I implemented a flex grow of 0 which while make the quality of all images be much better.
 
-## Technology Used
+# Future Features
+
+## Live Service
+
+A user may prefer to have a back and forth conversation about their enquiry, as such implementing a live chat service which can answer FAQ through a chat bot when the user asks common questions and then directing the user to a administrator at Customer Cakery for further questions which the chat bot can not answer. This would make the enquiry process quicker and more communicative, however would require a larger team as people would be needed to respond quickly to live service. This could be added inside a of the footer of each page and a option to replace/quicken the enquiry process.
+
+## Pricing Gallery
+
+A user might want an to know the price of cakes based of the gallery, as such when we have enough customers we can implement a pricing gallery where using our cakes we can showcase the cost of cakes we have made. This would give the user more of an idea on how much our cakes cost, as well as showcase our designs and why they would want to use us.
+
+# Technology Used
 
 * The project was written and tested on [Gitpod](https://gitpod.io/).
 * The project was also debugged and tested using [Chrome DevTool](https://developer.chrome.com/docs/devtools/).
@@ -225,7 +235,6 @@ When trying to make the images in the gallery responsive I cam upon a problem wi
 * The project uses images from [Unsplash](https://unsplash.com/).
 * The project colour contrast ratio was determined by [Contrast-Ratio](https://contrast-ratio.com/).
 * The project's images were compressed by [Tinypng](https://tinyjpg.com/).
-
 
 # Testing
 
