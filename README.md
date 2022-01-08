@@ -337,6 +337,45 @@ Automated testing was completed via third party applications, in order to assess
 
 ### Features
 
+## Navigation Bar
+
+* All navigation bar links are working correctly from every page.
+* The navigation bar text to exceed the background in any view.
+* The active page is displayed correctly at all times.
+* The active page line does not exceed the back in any view.
+* The navigation bar wraps when it can no longer fit in one line.
+* Navigation bar works as intended on both tablet and phone.
+
+## Enquire Form
+
+* Enquire will not be submitted unless email, name and description are entered on all devices.
+* Enquire inputs are correctly structured.
+* Label are above the correct input.
+* Size are conistent for inputs.
+* Size is increased for textfield to suggest for more information to be added.
+* Email input only accepts valid email address.
+* If not filled out correctly a notification will show to explainy why.
+* Form is responsive to different views.
+
+## Footer
+
+* All social medias are linked correctly on all pages.
+* All social medias work as intended on all devices.
+* Social media is responsive to different views.
+* Social media style is consitent through out the site.
+* Business email is accurate across all pages.
+
+## Responsive Layout
+
+* The title in the header changes size according to media queries.
+* The navigation bar both changes size and wraps to two lines when no room to fit on one.
+* All text on every page wraps and changes size as is intended.
+* All enquire buttons change in size according to media query.
+* Table inside "About-Us" is responsive, text does not overflow, wraps and changes in size according to different views.
+* Images inside the gallery up in collumn amount when there is enough room and do not grow as to keep quality of image intact on all devices.
+* Form in "Enquire" page is fixed according to size on phone and tablet view according to media queries but stretches when above tablet view.
+* Social medias in footer stack in 2 collumns rather than inline when tablet media query is hit.
+
 ## Bugs
 
 # Credits
