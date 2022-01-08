@@ -304,7 +304,36 @@ Automated testing was completed via third party applications, in order to assess
 
 ## Manual Testing
 
-### User Stories
+## User Stories
+
+### As a first time visitor to the website, I want to know what the company does from the home page.
+
+**On entering the website the user will land on the "home" page, the user is greeted with the company logo, navigation, a explanation of the companies purpose, a call to action and ways to get in contact with the company.**
+* The Branding in the home page is consitent with the rest of the site and showcases the companies branding.
+* Both the navigation and the call to action works as intended.
+* All information is simple and easy to process to make users feel more at ease and welcome to the site.
+* All content is responsive on all devices.
+### As a pontential customer, I would like to know what services can be made.
+
+**In the navigation bar of all pages the user can navigate to the "About-Us" page.**
+* The page contains an explanation on what our service is and how the service is used.
+### As a customer who is curious, I would like to know how much everything would cost me & history of pontential designs.
+
+**In the "About-Us" page will be a pricing breakdown, while designs of the cakes will be shown in the "Gallery" page. Both can be navigated to from all pages.**
+* The about-us page contains information on how we start pricing the cakes.
+* It will also contain information on how shipping works price wise.
+* The gallery page will contain multiple images of different designs made by the cake decorators at Customer Cakery.
+* These designs will showcase a wide variety of different options to entice the user.
+### As a assured customer, I want to be able to make my enquiry easily.
+
+**All pages will contain a working call to action to a simple form for easy enquiries.**
+* All pages will have a enquiry call to action at the bottom as well as in the navigation for ease of access.
+* The form will be simple and have 4 required sections to fill out before enquiry.
+### As a enquired customer, I would like to be able to be in contact with the company.
+
+**After enquiry all users will be greeted and reasurred that a quote will be with them within 48 hours, they will also be reasurred to get in contact using social media or our business email for any questions.**
+* All pages will have social media and our business email in the footer so users can get in contact us before and after enquiry.
+* They will also be encouraged to get in contact if they are worried after enquiring.
 
 ### Features
 
