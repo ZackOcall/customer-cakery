@@ -210,6 +210,23 @@ With the use of flexbox and media queries, **the site's design is responsive too
 
 When trying to make the images in the gallery responsive I cam upon a problem with flex box where due to the number of images the last image would stretch up to 3 images wide causing a drastic drop in quality, as such I implemented a flex grow of 0 which while make the quality of all images be much better.
 
+## Technology Used
+
+* The project was written and tested on [Gitpod](https://gitpod.io/).
+* The project was also debugged and tested using [Chrome DevTool](https://developer.chrome.com/docs/devtools/).
+* The project uses [GitHub](https://github.com/) for hosting and deploying the code onto GitHub Pages.
+* The project template used was sourced from [Code Institute's Gitpod Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* The project uses [FontAwesome](https://fontawesome.com/) for the free icons used.
+* The project uses [Google Fonts](https://fonts.google.com/) for the fonts used.
+* The project's wireframes were mocked up in [Balsamiq](https://balsamiq.com/wireframes/).
+* The images used in the project's README were hosted and served through [Imgur](https://imgur.com/).
+* The project's HTML was validated using [W3 Markup Validation](https://validator.w3.org/).
+* The project's CSS was validated using [W3 Jigsaw](https://jigsaw.w3.org/css-validator/).
+* The project uses images from [Unsplash](https://unsplash.com/).
+* The project colour contrast ratio was determined by [Contrast-Ratio](https://contrast-ratio.com/).
+* The project's images were compressed by [Tinypng](https://tinyjpg.com/).
+
+
 # Testing
 
 ## Browser Testing
