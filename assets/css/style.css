@@ -268,9 +268,9 @@ table {
     width: 50%;
 }
 
-/* 750px-1200px width */
+/* 780px-1200px width */
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 780px) {
 
     .header {
         position: relative;
