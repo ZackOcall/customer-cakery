@@ -378,6 +378,23 @@ Automated testing was completed via third party applications, in order to assess
 
 ## Bugs
 
+1. **Gallery Image responsive and clarity for different views.**
+   * While adjusting the gallery for different views I found that after reaching 3 collumns it would force the 10th image on it's on and 9/10th at 4 collumns, these would be stretched, making them hard to see and just overall unpleasant.
+   * I implemented a set width for all pictures and flex grow 0 to fight this. This made the images much more clear to see and still was responsive as they continued to change collumns based on the size of screen.
+
+2. **Fixed header background**
+   * I originally had changed my header background to be fixed as I wanted it to be always be on the screen as users scrolled through the pages, however having this fixed caused my navigation bar to not accurately be behind the header background when viewed on phone view, as the fixed would not responsively adjust to the navigation bar taking up 2 lines and only cover the 1st line of navigation.
+   * To fix this I reverted back to a relative position which completly fixed the issue on phone viewing.
+
+3. **Form**
+   * My form was just submitting without any content being added to it for some reason.
+   * I had sepearate forms for all inputs/textarea/button as such this was corrected after placing all inputs/textarea/button within 1 form.
+
+4. **Internet Explorer(Existing)**
+   * In Internet Exlporer my footer does not stick to the bottom of the page and instead lands just underneath my header. This overlaps the subtitle and content.
+   * After looking for a solution for a while I found out from googling that this is a common problem with Internet Explorer and using FlexBox. Internet Explorer does not correctly support flexbox and as such my footer does not take it's position at the bottom as flexbox intended.
+   * This has and will stay a issue as to get rid of this I would have to not use flexbox to structure my content.
+
 # Credits
 
 ### Content
