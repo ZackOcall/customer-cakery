@@ -180,7 +180,7 @@ I also used an image as my background with multiple colours, to allow accessibil
 
 ### Font
 
-[Caveat](https://fonts.google.com/specimen/Caveat?query=caveat) was my chosen font for the Navigation, subhead, enquire button and price. While browsing for a font which completely encompassed my company's style branding, I came across Caveat over a single glance was instantly recognisable to the eye. The font style is both playful and eye catching while not being to hard too read. I originally had this font for the whole website however I decided it would be for helpful to have a softer and less playful style for the text outside of the navigation and sub-head.
+[Caveat](https://fonts.google.com/specimen/Caveat?query=caveat) was my chosen font for the Navigation, subhead, enquire button and price. While browsing for a font which completely encompassed my company's style branding, I came across Caveat over a single glance was instantly recognisable to the eye. The font style is both playful and eye catching while not being too hard to read. I originally had this font for the whole website however I decided it would be for helpful to have a softer and less playful style for the text outside of the navigation and sub-head.
 
 [Raleway](https://fonts.google.com/specimen/Raleway?query=rale) was the font I used for text, contact and lists. After realising my text was blending in due to how playful Caveat was all over the page, I decided to find a new font to go well with it, I found Raleway and Montserrat but ended going on with Raleway as it felt softer and balanced out well with Caveat.
 
@@ -201,7 +201,7 @@ To get to the enquire form users will be able to click on the navigation bar whi
 
 **The enquire form will allow users to enter their personal details such as name(required), email(required) and phone number(not required) as well as information about their dream cake(required)**, this will form a connection between the company and the user to start the promised service. This form after everything required is filled out can be submitted and will lead to our enquire-confirmation page.
 
-Originally, I had decided to have all forms be required however I decided to only go with email as I was worried this could deter any users who felt like we were trying to a lot of the users personal information.
+Originally, I had decided to have all forms be required however I decided to only go with email as I was worried this could deter any users who felt like we were trying to a lot of the user's personal information.
 
 ## Footer
 
@@ -211,7 +211,7 @@ Each footer Will contain social media(Twitter, Instagram, Facebook and TikTok) a
 
 With the use of flexbox and media queries, **the site's design is responsive too all screen sizes.** Breakpoints have been implemented to vary sizes and positions of content so that they fit more in line with the new extra space allotted with the new size.
 
-When trying to make the images in the gallery responsive I cam upon a problem with flex box where due to the number of images the last image would stretch up to 3 images wide causing a drastic drop in quality, as such I implemented a flex grow of 0 which while make the quality of all images be much better.
+When trying to make the images in the gallery responsive I came upon a problem with flex box where due to the number of images the last image would stretch up to 3 images wide causing a drastic drop in quality, as such I implemented a flex grow of 0 which while make the quality of all images be much better.
 
 # Future Features
 
@@ -295,7 +295,7 @@ Automated testing was completed via third party applications, in order to assess
 
    ![Gallery 500px Lighthouse Score](https://i.imgur.com/zkxVYCJ.png)
 
-   1030px Height caused best practice to reach 100 but lowered the performance, while 500px did the opposite with raising performance but lowering best practice. In the end I chose to go with 500px as I preferred having 1 column for phone view, 2 columns for tablet view and 3-4 column for browser view rather than 1 column for phone/tablet view and 2 column for browser view which would happen with 1030px.
+   1030px Height caused best practice to reach 100 but lowered the performance, while 500px did the opposite with raising performance but lowering best practice. In the end I chose to go with 500px as I preferred having 1 column for phone view, 2 columns for tablet view and 3-4 column for browser view rather than 1 column for phone/tablet view and 2 columns for browser view which would happen with 1030px.
 
    **Enquire**
 
