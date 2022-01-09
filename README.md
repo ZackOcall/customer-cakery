@@ -337,6 +337,10 @@ Automated testing was completed via third party applications, in order to assess
 
 ### Features
 
+## Text
+
+During testing my mentor pointed out that my overall text was too large and made the site look unprofessional. As such I decided to lower the font size for my text all over my content at all different media quiries to create a more stylish look.
+ 
 ## Navigation Bar
 
 * All navigation bar links are working correctly from every page.
