@@ -162,11 +162,25 @@ The project is developed using HTML and CSS.
 
 ### Wireframes
 
-* [Home Wireframe](./assets/images/home-wireframe.jpg)
-* [About Us Wireframe](./assets/images/about-us-wireframe.jpg)
-* [Gallery Wireframe](./assets/images/gallery-wireframe.jpg)
-* [Enquiry Form Wireframe](./assets/images/enquire-form-wireframe.jpg)
-* [Enquiry Confirmation Wireframe](./assets/images/enquire-comfirmation-wireframe.jpg)
+ **Home Wireframe**
+
+ ![Home Wireframe](https://imgur.com/nUx8nNq.png)
+ 
+ **About-Us Wireframe** 
+
+ ![About Us Wireframe](https://imgur.com/YuFiiUm.png)
+
+ **Gallery Wireframe** 
+
+ ![Gallery Wireframe](https://imgur.com/fQ4eohn.png)
+
+ **Enquire Wireframe** 
+
+ ![Enquiry Form Wireframe](https://i.imgur.com/t6ZQADF.png)
+
+ **Enquire-Confirm Wireframe** 
+
+ ![Enquiry Confirmation Wireframe](https://i.imgur.com/Q83AcVn.png)
 
 ## Surface
 
