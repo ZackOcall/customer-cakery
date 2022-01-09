@@ -165,7 +165,7 @@ The project is developed using HTML and CSS.
  **Home Wireframe**
 
  ![Home Wireframe](https://imgur.com/nUx8nNq.png)
- 
+
  **About-Us Wireframe** 
 
  ![About Us Wireframe](https://imgur.com/YuFiiUm.png)
@@ -285,7 +285,8 @@ Automated testing was completed via third party applications, in order to assess
 
 1. [W3 Markup Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F)
    * The project's HTML was validated using W3 Markup Validator.
-   * No errors were found.
+   * Found errors in my favicon and having duplicate title's.
+   * No errors found after fix.
 
 2. [W3 Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
    * The project's CSS was validated using W3 Jigsaw Validator.
