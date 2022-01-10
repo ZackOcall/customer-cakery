@@ -4,6 +4,8 @@ This project is a static website for a Cake Baking company called Customer Caker
 
 [View the website on GitHub pages here](https://zackocall.github.io/customer-cakery/).
 
+![Finished Project Home Page](https://i.imgur.com/yVblq1j.png)
+
 # Table of contents
 
 >1. [Overview](#overview)
@@ -207,9 +209,13 @@ All images were sourced from [Unsplash](https://unsplash.com/). The image chosen
 
 ## Navigation Bar
 
+![Navigation Bar](https://i.imgur.com/h6meFsX.png)
+
 Each page has a fixed navigation bar in the header. **This will allow the new users a grasp off what's to come in the site as well as quick access for returning users.** As the header is fixed, the navigation bar as well as title will follow the users scrolling. The navigation bar will also always have a bar underneath to indicate what page of the site the user is on and will flash with a bar when a different navigation is hover over.
 
 ## Enquire Form
+
+![Enquire Form](https://i.imgur.com/sSGMl8A.png)
 
 To get to the enquire form users will be able to click on the navigation bar which is always in front of them due to it be fixed or at the bottom of every page except the enquire and enquire-confirmation page will be a enquire box link to send the user to the enquire page.
 
@@ -218,6 +224,8 @@ To get to the enquire form users will be able to click on the navigation bar whi
 Originally, I had decided to have all forms be required however I decided to only go with email as I was worried this could deter any users who felt like we were trying to a lot of the user's personal information.
 
 ## Footer
+
+![Footer](https://i.imgur.com/hO0Qobr.png)
 
 Each footer Will contain social media(Twitter, Instagram, Facebook and TikTok) and our business email. **This is so that customers have numerous options to be able to get in touch with us be for problems with our service or just to ask questions.**
 
