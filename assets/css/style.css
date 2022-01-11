@@ -71,6 +71,7 @@ footer {
 
 .socials-1, .socials-2 {
     text-align: center;
+    padding-bottom: 10px;
 }
 
 .socials-1 > a, .socials-2 > a {
