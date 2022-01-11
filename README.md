@@ -4,7 +4,7 @@ This project is a static website for a Cake Baking company called Customer Caker
 
 [View the website on GitHub pages here](https://zackocall.github.io/customer-cakery/).
 
-![Finished Project Home Page](https://i.imgur.com/ic4xeqo.png)
+![Finished Project Home Page](https://i.imgur.com/jHsMGwt.png)
 
 # Table of contents
 
