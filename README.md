@@ -4,7 +4,7 @@ This project is a static website for a Cake Baking company called Customer Caker
 
 [View the website on GitHub pages here](https://zackocall.github.io/customer-cakery/).
 
-![Finished Project Home Page](https://i.imgur.com/yVblq1j.png)
+![Finished Project Home Page](https://i.imgur.com/ic4xeqo.png)
 
 # Table of contents
 
@@ -453,6 +453,7 @@ During testing my mentor pointed out that my overall text was too large and made
 * Code for flex used from [Link](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 * Helped me better understand flex for image flex's [Link](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 * Helped me better understand table CSS [Link](https://www.w3schools.com/css/css_table.asp)
+* Used the code for Pulse Hover from [Link](https://github.com/IanLunn/Hover#how-to-use)
 
 # Acknowledgements
 
