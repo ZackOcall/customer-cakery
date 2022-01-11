@@ -128,7 +128,7 @@ The project is developed using HTML and CSS.
 * Business Goal
    * Provide clarity with the user.
    * Sell the brand and process.
-   * Reasure the user on everything.
+   * Reassure the user on everything.
 
 
 ### Gallery Page
@@ -290,7 +290,7 @@ Header will not correctly cover both heading title and navigation for some reaso
 
 ## Automated Testing
 
-Automated testing was completed via third party applications, in order to assess and validate the project.
+Automated testing was completed via third party applications, to assess and validate the project.
 
 1. [W3 Markup Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzackocall.github.io%2Fcustomer-cakery%2F)
    * The project's HTML was validated using W3 Markup Validator.
@@ -468,7 +468,7 @@ As this project was developed on the main branch, all changes made to the reposi
 2. Above the file list, click Code (Usually at the top right of the code window).
 3. Choose if you want to clone using HTTPS, SSH or GitHub CLI, then click the copy button to the right.
 4. Open your preferred IDE (VSCode, Atom, PyCharm, etc).
-5. Open the terminal, and create a directory where you would like the Repository to be stored.
+5. Open the terminal and create a directory where you would like the Repository to be stored.
 6. Type **git clone** and then paste the URL you copied in step 3.
 7. Press Enter to create your clone.
 
