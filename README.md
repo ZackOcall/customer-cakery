@@ -328,6 +328,9 @@ Automated testing was completed via third party applications, in order to assess
 
    ![Enquire-Confirmation Lighthouse Score](https://i.imgur.com/HHlJbhy.png)
 
+4. [Wave Web Accessibility](https://wave.webaim.org/)
+   * No errors were found.
+
 ## Manual Testing
 
 ## User Stories
