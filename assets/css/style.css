@@ -301,6 +301,8 @@ p {
 }
 
 .background-rgba {
+    width: 100%;
+    margin: auto;
     background-color: rgba(255, 255, 255, 0.7);
 }
 
@@ -484,6 +486,12 @@ table {
         color: #000000;
         font-weight: 500;
     }
+
+    .background-rgba {
+        width: 80%;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 0.7);
+    }
 }
 /* 1200px and higher width*/
 @media screen and (min-width: 1200px) {
@@ -585,5 +593,11 @@ table {
         font-size: 18px;
         color: #000000;
         font-weight: 500;
+    }
+
+    .background-rgba {
+        width: 60%;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 0.7);
     }
 }
