@@ -22,13 +22,14 @@ This project is a static website for a Cake Baking company called Customer Caker
 >    1. [Browser Testing](#browser-testing)
 >    2. [Automated Testing](#automated-testing)
 >    3. [Manual Testing](#manual-testing)
->    4. [Bugs](#bugs)  
->7. [Credits](#credits)
+>    4. [Bugs](#bugs)
+>7. [Deployment](#deployment)
+>8. [Credits](#credits)
 >    1. [Content](#content)
 >    2. [Images](#images)
 >    3. [Code](#code)
->8. [Acknowledgements](#acknowledgements)
->9. [Disclaimer](#disclaimer)
+>9. [Acknowledgements](#acknowledgements)
+>10. [Disclaimer](#disclaimer)
 
 ## Overview
 
@@ -427,6 +428,56 @@ During testing my mentor pointed out that my overall text was too large and made
    * In Internet Explorer my footer does not stick to the bottom of the page and instead lands just underneath my header. This overlaps the subtitle and content.
    * After looking for a solution for a while I found out from googling that this is a common problem with Internet Explorer and using Flexbox. Internet Explorer does not correctly support flexbox and as such my footer does not take its position at the bottom as flexbox intended.
    * This has and will stay an issue as to get rid of this I would have to not use flexbox to structure my content.
+
+# Deployment
+
+## How this Project was Deployed
+
+This project was deployed to GitHub pages via the following steps:
+
+1. Log into [GitHub](https://GitHub.com/).
+2. From the list of Repositories, select [ZackOcall/customer-cakery](https://github.com/ZackOcall/customer-cakery).
+3. From the Repositories sub-headings, select "Settings".
+4. Click on "Pages", the twelfth category
+5. From the dropdown list under the "Source" heading, select "main".
+6. A second drop-down menu that appears should remain as the default value, "/root".
+7. Press Save. 
+8. On Page refresh, scroll back down to the GitHub Pages section, and the link to the deployed site will be available in a green sub-section with a tick icon next to it.
+
+As this project was developed on the main branch, all changes made to the repository are immediately reflected in the deployed project.
+
+## How to Run this Project in your Browser
+
+1. Use the browser of your choice, I recommend using [Google Chrome](https://www.google.co.uk/chrome/) or [Firefox](https://www.mozilla.org/en-GB/exp/firefox/new/) browser.
+2. Install the applicable [GitPod](https://www.gitpod.io/docs/browser-extension/) Browser Extensions for your chosen browser.
+4. Create a [GitHub](https://GitHub.com/join) account. 
+3. Log in to [Gitpod](https://gitpod.io/login/) using your GitHub account.
+4. Visit Customer Cakery [ZackOcall/customer-cakery](https://github.com/ZackOcall/customer-cakery).
+5. Open the repository in Gitpod by clicking on the green GitPod button.
+6. A new workspace will open with the current state of the master branch. Any changes made to the master branch after this point will not be automatically updated in your Gitpod Workspace.
+
+## How to Fork Repository
+
+1. Login in to GitHub and go to [ZackOcall/customer-cakery](https://github.com/ZackOcall/customer-cakery).
+2. In the top right corner, click Fork.
+3. The next page will be the forked version of [ZackOcall/customer-cakery](https://github.com/ZackOcall/customer-cakery) but in your own repository.
+
+## How to Clone this project
+
+1. Fork the repository [ZackOcall/customer-cakery](https://github.com/ZackOcall/customer-cakery) using the steps above.
+2. Above the file list, click Code (Usually at the top right of the code window).
+3. Choose if you want to clone using HTTPS, SSH or GitHub CLI, then click the copy button to the right.
+4. Open your preferred IDE (VSCode, Atom, PyCharm, etc).
+5. Open the terminal, and create a directory where you would like the Repository to be stored.
+6. Type **git clone** and then paste the URL you copied in step 3.
+7. Press Enter to create your clone.
+
+## How to Download this project
+
+1. Open [ZackOcall/customer-cakery](https://github.com/ZackOcall/customer-cakery).
+2. Click on the "code" button in the top right.
+3. Click the "Download ZIP" option to download a copy of the selected branch's repository as a zip file.
+4. Locate ZIP file in your computer and extract to a folder of your choice.
 
 # Credits
 
