@@ -134,6 +134,8 @@ textarea {
     font-weight: 900;
     color: #63185C;
     font-family: 'Caveat', cursive;
+    display: inline-flex;
+    align-items: center;
 }
 
 .enquire-button {
@@ -149,6 +151,8 @@ textarea {
     font-weight: 900;
     color: #63185C;
     font-family: 'Caveat', cursive;
+    display: inline-flex;
+    align-items: center;
 }
 
 
@@ -388,6 +392,8 @@ table {
         font-weight: 900;
         color: #63185C;
         font-family: 'Caveat', cursive;
+        display: inline-flex;
+        align-items: center;
     }
      
     .enquire-button {
@@ -403,6 +409,8 @@ table {
         font-weight: 900;
         color: #63185C;
         font-family: 'Caveat', cursive;
+        display: inline-flex;
+        align-items: center;
     }
 
 
